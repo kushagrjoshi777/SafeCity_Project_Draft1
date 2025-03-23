@@ -39,8 +39,19 @@ Infrastructure:
 3. Run the application:
 4. Open your browser and go to http://127.0.0.1:5000
 
-## Future Prospects for the SafeCity Website
-_will enter__
+## Future Scope & Impact 
+Empowers urban safety – Provides real-time crime awareness using Machine Learning to identify Crime Hotspots.
+IoT based City Planning – Enhances street lighting, patrolling, and Camera surveillance in unsafe areas.
+Community-driven – Crowdsourced reports create a self-sustaining safety network.
+Improves Public Safety Service Integration – Realtime alerts and direct links to Emergency Services, drastically reduce response times and save lives.
+Boosts public confidence – Encourages safer mobility, economic activity, and tourism.
+
+## Business Viability & Growth 💰
+Smart city integration – Partner with state police and the National Crime Records Bureau for urban safety improvements.
+Academic and Corporate security – Companies and institutions can protect employees and students, reducing liability risks.
+Insurance & risk analysis – Crime heatmaps aid insurers in assessing policy risks.
+Tourism & travel safety – Agencies can enhance visitor confidence and trust.
+Revenue models – Freemium access, API licensing, ensure financial sustainability.
 
 ## Data Source
 The application uses crime data from the Telangana State Crime Report. The PDF file is included in the directory.

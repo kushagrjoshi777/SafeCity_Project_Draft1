@@ -1076,8 +1076,6 @@ if __name__ == '__main__':
     # Create templates directory if it doesn't exist
     os.makedirs('templates', exist_ok=True)
     
-    # Create HTML template (your existing code for this)
-    
     # Add better error logging
     import logging
     logging.basicConfig(
@@ -1086,7 +1084,12 @@ if __name__ == '__main__':
         filename='app.log'
     )
     
+    # Get port from environment variable or use 5000 as default
+    port = int(os.environ.get("PORT", 5000))
+    
     print("🚀 Starting Safe City - Telangana application...")
     print("📊 Crime data will be loaded on first request")
-    print("📱 Access the application at http://127.0.0.1:5000")
-    app.run(debug=True)
+    print(f"📱 Access the application at http://0.0.0.0:{port}")
+    
+    # Run on all interfaces (0.0.0.0) and use the PORT env variable
+    app.run(host='0.0.0.0', port=port, debug=False)

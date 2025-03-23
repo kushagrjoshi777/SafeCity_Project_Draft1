@@ -1,4 +1,4 @@
-# SafeCity_Project_Draft1
+# CitySafe_Project_Draft1
 A website designed to help users identify safe and unsafe areas within a city in real-time. 
 Using a combination of crime data and user reports, the website provides an interactive map highlighting high-risk zones and safe routes.
 It features safety ratings and emergency assistance options, making it ideal for travellers, commuters, and residents who want to navigate urban areas securely. 

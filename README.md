@@ -46,7 +46,7 @@ Community-driven – Crowdsourced reports create a self-sustaining safety networ
 Improves Public Safety Service Integration – Realtime alerts and direct links to Emergency Services, drastically reduce response times and save lives.
 Boosts public confidence – Encourages safer mobility, economic activity, and tourism.
 
-## Business Viability & Growth 💰
+## Business Viability & Growth
 Smart city integration – Partner with state police and the National Crime Records Bureau for urban safety improvements.
 Academic and Corporate security – Companies and institutions can protect employees and students, reducing liability risks.
 Insurance & risk analysis – Crime heatmaps aid insurers in assessing policy risks.

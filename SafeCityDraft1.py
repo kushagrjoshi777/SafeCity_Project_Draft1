@@ -5,7 +5,7 @@ from folium.features import DivIcon
 import requests
 import time
 import os
-from flask import Flask, render_template, jsonify, send_from_directory
+from flask import Flask, render_template, jsonify, send_from_directory, request
 
 app = Flask(__name__)
 
